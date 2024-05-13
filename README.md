@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micsno
-- 👀 I’m interested in specially web-developing, information security, and OSINT:
+- 👀 I’m interested in specially Web development, cybersecurity, and OSINT:
 - 🌱 I’m currently student & I'm studying Information and communication technology in University of Applied Sciences.
 - ✨ I'm currently learning programming {HMTL, CSS, JS & Python}
 
