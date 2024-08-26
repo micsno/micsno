@@ -26,6 +26,8 @@ In the near future, I plan to dive deeper into:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/r00tkafe.png" alt="TryHackMe">
+
 ## 📫 Get in Touch
 - LinkedIn: [Tomi Kouvala](https://www.linkedin.com/in/tomikouvala)
 - Email: [micsno@pm.me](mailto:micsno@pm.me)
