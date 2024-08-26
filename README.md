@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @micsno"
+![banner](https://media.licdn.com/dms/image/v2/D4D16AQEf8Q1EnQk_5A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724048178341?e=2147483647&v=beta&t=ykvrl_WnzDJKT5oPKKQB6q6khev8YyQL6bqHDf20ErY)
 
 ## 👀 About Me
 I'm passionate about **Web Development**, **Full-Stack Development**, **Cybersecurity**, and **OSINT**. I love exploring new technologies and keeping up with industry trends.
