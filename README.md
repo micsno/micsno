@@ -7,27 +7,26 @@
 ## 👀 About Me
 I'm passionate about **Web Development**, **Full-Stack Development**, **Cybersecurity**, and **OSINT**. I love exploring new technologies and keeping up with industry trends.
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
-
-  <div style="flex: 1; margin-right: 10px;">
-    <h3>✨ Current Learning Journey</h3>
-    <ul>
-      <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Python</li>
-      <li><strong>Frameworks:</strong> React</li>
-      <li><strong>Databases:</strong> SQL</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1;">
-    <h3>🌱 Future Plans</h3>
-    <ul>
-      <li><strong>TypeScript</strong></li>
-      <li><strong>Tailwind CSS</strong></li>
-      <li><strong>React Native</strong></li>
-    </ul>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td style="width: 50%; padding-right: 10px;">
+      <h3>✨ Current Learning Journey</h3>
+      <ul>
+        <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Python</li>
+        <li><strong>Frameworks:</strong> React</li>
+        <li><strong>Databases:</strong> SQL</li>
+      </ul>
+    </td>
+    <td style="width: 50%; padding-left: 10px;">
+      <h3>🌱 Future Plans</h3>
+      <ul>
+        <li><strong>TypeScript</strong></li>
+        <li><strong>Tailwind CSS</strong></li>
+        <li><strong>React Native</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Skills & Tools
 
