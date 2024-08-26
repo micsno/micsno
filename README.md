@@ -42,8 +42,6 @@ I thrive on solving complex problems and bringing creative ideas to life. Whethe
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/r00tkafe.png" alt="TryHackMe">
-
 ## 📫 Get in Touch
 ![Profile Views](https://komarev.com/ghpvc/?username=micsno&color=blueviolet)
 
