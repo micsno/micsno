@@ -17,7 +17,7 @@ I'm passionate about **Web Development**, **Full-Stack Development**, **Cybersec
         <li><strong>Databases:</strong> SQL</li>
       </ul>
     </td>
-    <td style="width: 50%; padding-left: 10px;">
+    <td style="width: 50%; padding-left: 10px; min-widht: 49%">
       <h3>🌱 Future Plans</h3>
       <ul>
         <li><strong>TypeScript</strong></li>
