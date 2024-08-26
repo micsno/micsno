@@ -5,7 +5,12 @@
 </div>
 
 ## 👀 About Me
-I'm passionate about **Web Development**, **Full-Stack Development**, **Cybersecurity**, and **OSINT**. I love exploring new technologies and keeping up with industry trends.
+
+Hello there! I’m [@micsno](https://github.com/micsno), a passionate Entry-level **Web Developer** and **Full-Stack Enthusiast** with a keen interest in **Cybersecurity** and **OSINT** (Open Source Intelligence). My journey in tech started with a curiosity for how websites and applications work, and it has grown into a full-fledged passion for creating innovative solutions and understanding the intricacies of digital security.
+
+### What Drives Me
+
+I thrive on solving complex problems and bringing creative ideas to life. Whether it's building user-friendly web interfaces, crafting robust back-end systems, or diving into the world of cybersecurity to uncover vulnerabilities, I’m always eager to learn and tackle new challenges. I believe that technology has the power to transform lives, and I’m committed to harnessing that power in meaningful ways.
 
 <table>
   <tr>
