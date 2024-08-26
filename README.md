@@ -1,20 +1,33 @@
-# 👋 Hi, I’m @micsno"
-![banner](https://media.licdn.com/dms/image/v2/D4D16AQEf8Q1EnQk_5A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724048178341?e=2147483647&v=beta&t=ykvrl_WnzDJKT5oPKKQB6q6khev8YyQL6bqHDf20ErY)
+# <div align="center">👋 Hi, I’m @micsno</div>
+
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEf8Q1EnQk_5A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724048178341?e=2147483647&v=beta&t=ykvrl_WnzDJKT5oPKKQB6q6khev8YyQL6bqHDf20ErY" alt="LinkedIn Banner" width="100%" style="max-width: 1000px; height: auto;">
+</div>
 
 ## 👀 About Me
 I'm passionate about **Web Development**, **Full-Stack Development**, **Cybersecurity**, and **OSINT**. I love exploring new technologies and keeping up with industry trends.
 
-## ✨ Current Learning Journey
-I'm currently expanding my knowledge with:
-- **Programming Languages:** HTML, CSS, JavaScript, Python
-- **Frameworks:** React
-- **Databases:** SQL
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
 
-## 🌱 Future Plans
-In the near future, I plan to dive deeper into:
-- **TypeScript**
-- **Tailwind CSS**
-- **React Native**
+  <div style="flex: 1; margin-right: 10px;">
+    <h3>✨ Current Learning Journey</h3>
+    <ul>
+      <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Python</li>
+      <li><strong>Frameworks:</strong> React</li>
+      <li><strong>Databases:</strong> SQL</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h3>🌱 Future Plans</h3>
+    <ul>
+      <li><strong>TypeScript</strong></li>
+      <li><strong>Tailwind CSS</strong></li>
+      <li><strong>React Native</strong></li>
+    </ul>
+  </div>
+
+</div>
 
 ## 🚀 Skills & Tools
 
