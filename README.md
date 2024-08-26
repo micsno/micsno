@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @micsno"
 
-![Profile Views](https://komarev.com/ghpvc/?username=micsno&color=blueviolet)
-
 ## 👀 About Me
 I'm passionate about **Web Development**, **Full-Stack Development**, **Cybersecurity**, and **OSINT**. I love exploring new technologies and keeping up with industry trends.
 
@@ -29,9 +27,7 @@ In the near future, I plan to dive deeper into:
 <img src="https://tryhackme-badges.s3.amazonaws.com/r00tkafe.png" alt="TryHackMe">
 
 ## 📫 Get in Touch
-- LinkedIn: [Tomi Kouvala](https://www.linkedin.com/in/tomikouvala)
-- Email: [micsno@pm.me](mailto:micsno@pm.me)
+![Profile Views](https://komarev.com/ghpvc/?username=micsno&color=blueviolet)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=micsno&show_icons=true&theme=radical)
-
+- [LinkedIn](https://www.linkedin.com/in/tomikouvala)
+- [Email](mailto:micsno@pm.me)
