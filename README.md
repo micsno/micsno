@@ -19,7 +19,7 @@ I thrive on solving complex problems and bringing creative ideas to life. Whethe
       <ul>
         <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Python</li>
         <li><strong>Frameworks:</strong> React</li>
-        <li><strong>Databases:</strong> PostreSQL</li>
+        <li><strong>Databases:</strong> PostgreSQL</li>
       </ul>
     </td>
     <td style="width: 50%; padding-left: 10px; min-widht: 49%">
