@@ -1,9 +1,5 @@
 # <div align="center">👋 Hi, I’m @micsno</div>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEf8Q1EnQk_5A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724048178341?e=2147483647&v=beta&t=ykvrl_WnzDJKT5oPKKQB6q6khev8YyQL6bqHDf20ErY" alt="LinkedIn Banner" width="100%" style="max-width: 1000px; height: auto;">
-</div>
-
 ## 👀 About Me
 
 Hello there! I’m [@micsno](https://github.com/micsno), a passionate Entry-level **Web Developer** and **Full-Stack Enthusiast** with a keen interest in **Cybersecurity** and **OSINT** (Open Source Intelligence). My journey in tech started with a curiosity for how websites and applications work, and it has grown into a full-fledged passion for creating innovative solutions and understanding the intricacies of digital security.
