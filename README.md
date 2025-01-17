@@ -2,12 +2,12 @@
 
 ## 👀 About Me
 
-Hello there! I’m @micsno, a passionate Full Stack Developer and aspiring Software Developer, with a keen interest in Web Development, Cybersecurity, and OSINT (Open Source Intelligence). I enjoy exploring how technology can create impactful solutions and thrive on tackling complex challenges in the ever-evolving digital landscape.
+Hello there! I’m @micsno, a dedicated Software Developer and enthusiastic Full Stack Developer, with a passion for Web Development, Cybersecurity, and OSINT (Open Source Intelligence). I love exploring how technology can solve real-world problems and thrive on tackling complex challenges in the ever-evolving digital landscape.
 
 What Drives Me
-As a lifelong learner, I’m committed to continually improving my skills—whether it’s through work, training, or self-study. I’m equally comfortable building intuitive front-end interfaces, designing robust back-end systems, or diving into new technologies to expand my expertise.
+As a lifelong learner, I’m committed to continually improving my skills—whether it’s through work, training, or self-study. I’m equally comfortable designing robust back-end systems, building intuitive front-end interfaces, or diving into new technologies to expand my expertise.
 
-I see every challenge as an opportunity to grow, and I believe that continuous self-development is the key to staying ahead in the tech world. Whether I’m working as a full stack developer or in broader software development, my goal is to create meaningful, innovative solutions that make a difference. Let’s build something great together!
+I see every challenge as an opportunity to grow, and I believe that continuous self-development is the key to staying ahead in the tech world. Whether I’m working as a software developer or focusing on full stack projects, my goal is to create meaningful, innovative solutions that make a difference. Let’s build something great together!
 
 <table>
   <tr>
