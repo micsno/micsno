@@ -18,7 +18,7 @@ I see every challenge as an opportunity to grow, and I believe that continuous s
       <h4>✨ Current Learning Journey</h4>
       <ul>
         <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Python</li>
-        <li><strong>Frameworks:</strong> React</li>
+        <li><strong>Frameworks:</strong> React, Node.Js</li>
         <li><strong>Databases:</strong> PostgreSQL</li>
         <li><strong>Version Control:</strong> Git, GitHub, GitLab</li>
       </ul>
