@@ -2,11 +2,12 @@
 
 ## 👀 About Me
 
-Hello there! I’m [@micsno](https://github.com/micsno), a passionate Entry-level **Web Developer** and **Full-Stack Enthusiast** with a keen interest in **Cybersecurity** and **OSINT** (Open Source Intelligence). My journey in tech started with a curiosity for how websites and applications work, and it has grown into a full-fledged passion for creating innovative solutions and understanding the intricacies of digital security.
+Hello there! I’m @micsno, a passionate Full Stack Developer and aspiring Software Developer, with a keen interest in Web Development, Cybersecurity, and OSINT (Open Source Intelligence). I enjoy exploring how technology can create impactful solutions and thrive on tackling complex challenges in the ever-evolving digital landscape.
 
-### What Drives Me
+What Drives Me
+As a lifelong learner, I’m committed to continually improving my skills—whether it’s through work, training, or self-study. I’m equally comfortable building intuitive front-end interfaces, designing robust back-end systems, or diving into new technologies to expand my expertise.
 
-I thrive on solving complex problems and bringing creative ideas to life. Whether it's building user-friendly web interfaces, crafting robust back-end systems, or diving into the world of cybersecurity to uncover vulnerabilities, I’m always eager to learn and tackle new challenges. I believe that technology has the power to transform lives, and I’m committed to harnessing that power in meaningful ways.
+I see every challenge as an opportunity to grow, and I believe that continuous self-development is the key to staying ahead in the tech world. Whether I’m working as a full stack developer or in broader software development, my goal is to create meaningful, innovative solutions that make a difference. Let’s build something great together!
 
 <table>
   <tr>
@@ -22,9 +23,10 @@ I thrive on solving complex problems and bringing creative ideas to life. Whethe
       <h3>🌱 Future Plans</h3>
       <ul>
         <li><strong>TypeScript</strong></li>
-        <li><strong>Tailwind CSS</strong></li>
-        <li><strong>React Native</strong></li>
+        <li><strong>C#</strong></li>
         <li><strong>Next.Js</strong></li>
+        <li><strong>Azure</strong></li>
+        <li><strong>Robot Framework</strong></li>
       </ul>
     </td>
   </tr>
