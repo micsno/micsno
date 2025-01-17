@@ -13,11 +13,12 @@ I see every challenge as an opportunity to grow, and I believe that continuous s
   <tr>
     <td style="width: 50%; padding-right: 10px;">
       <h3>✨ Current Learning Journey</h3>
-      <ul>
-        <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Python</li>
-        <li><strong>Frameworks:</strong> React</li>
-        <li><strong>Databases:</strong> PostgreSQL</li>
-      </ul>
+  <ul>
+    <li><strong>Programming Languages:</strong> HTML, CSS, JavaScript, Python</li>
+    <li><strong>Frameworks:</strong> React</li>
+    <li><strong>Databases:</strong> PostgreSQL</li>
+    <li><strong>Version Control:</strong> Git, GitHub, GitLab</li>
+  </ul>
     </td>
     <td style="width: 50%; padding-left: 10px; min-widht: 49%">
       <h3>🌱 Future Plans</h3>
