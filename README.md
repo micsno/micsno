@@ -12,9 +12,9 @@
 
 I'm an engineering student with a hands-on technical background in electrical work, automation, mechanics, maintenance, and production.
 
-Alongside my studies, I've been developing my programming skills through personal projects, courses, and self-study. I'm interested in software development, web technologies, automation, and finding practical solutions to real-world problems.
+Alongside my studies, I've been developing my programming skills through personal projects, courses, and self-study. I'm interested in software development, web technologies, automation, robotics, drones, and finding practical solutions to real-world problems.
 
-I enjoy learning by building things myself, experimenting with new technologies, and figuring out how things work.
+I enjoy learning by building things myself, experimenting with new technologies, and figuring out how things work — especially where software, electronics, and mechanical systems come together.
 
 ---
 
