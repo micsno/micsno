@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🎓 Engineering Student | 💻 Software & Technology | ⚙️ Hands-on Technical Background
+### Engineering Student | Software & Technology | Hands-on Technical Background
 
 </div>
 
@@ -14,7 +14,7 @@ I'm an engineering student with a hands-on technical background in electrical wo
 
 Alongside my studies, I've been developing my programming skills through personal projects, courses, and self-study. I'm interested in software development, web technologies, automation, robotics, drones, and finding practical solutions to real-world problems.
 
-I enjoy learning by building things myself, experimenting with new technologies, and figuring out how things work — especially where software, electronics, and mechanical systems come together.
+I enjoy learning by building things myself, experimenting with new technologies, and figuring out how things work, especially where software, electronics, and mechanical systems come together.
 
 ---
 
@@ -69,7 +69,6 @@ I enjoy learning by building things myself, experimenting with new technologies,
 ## 🌱 Currently Learning
 
 - TypeScript
-- C#
 - Next.js
 - Azure
 - Robot Framework
