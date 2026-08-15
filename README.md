@@ -88,8 +88,6 @@ My projects cover areas such as:
 - ⚛️ React applications
 - 🔌 Technology-related projects
 
-More projects and experiments coming soon.
-
 ---
 
 ## ⚙️ Technical Background
@@ -104,18 +102,6 @@ Before and alongside my studies, I've gained practical experience in:
 - 👨‍🏫 Student guidance and technical instruction
 
 This practical background gives me a different perspective when working with technology: I like understanding not only the software, but also how it connects to real-world systems and problems.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=micsno&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micsno&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
